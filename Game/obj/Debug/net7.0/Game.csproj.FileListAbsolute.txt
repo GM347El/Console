@@ -1,0 +1,14 @@
+D:\C#\CovarianceAndContravarianceDelegate\Game\bin\Debug\net7.0\Game.exe
+D:\C#\CovarianceAndContravarianceDelegate\Game\bin\Debug\net7.0\Game.deps.json
+D:\C#\CovarianceAndContravarianceDelegate\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+D:\C#\CovarianceAndContravarianceDelegate\Game\bin\Debug\net7.0\Game.dll
+D:\C#\CovarianceAndContravarianceDelegate\Game\bin\Debug\net7.0\Game.pdb
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.dll
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\refint\Game.dll
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.pdb
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+D:\C#\CovarianceAndContravarianceDelegate\Game\obj\Debug\net7.0\ref\Game.dll

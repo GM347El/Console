@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ty4YOeW0WM/eu5WjihaGZojqR9Vh/5JvBT4nF9gCe/aaq0hpEPgYTDUTDM6S2HWMI7s6gSAvF8FVS6R+UxwoLA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Console\\Console\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WNA2TUK5XoB2cbUcEIrBgpgalMa9ZP4n2J0QeisKA7KfUv4QXoslk0hw+l5cBkBMzTFqLAagTStTFcCM1e2tA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Console\\Console\\Delegate\\CovarianceAndContravarianceDelegate\\CovarianceAndContravarianceDelegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

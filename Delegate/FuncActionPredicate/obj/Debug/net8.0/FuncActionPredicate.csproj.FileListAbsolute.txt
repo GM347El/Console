@@ -1,0 +1,14 @@
+E:\C#\Console\Console\Delegate\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.exe
+E:\C#\Console\Console\Delegate\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.deps.json
+E:\C#\Console\Console\Delegate\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.runtimeconfig.json
+E:\C#\Console\Console\Delegate\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.dll
+E:\C#\Console\Console\Delegate\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.pdb
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfoInputs.cache
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfo.cs
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.csproj.CoreCompileInputs.cache
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.dll
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\refint\FuncActionPredicate.dll
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.pdb
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.genruntimeconfig.cache
+E:\C#\Console\Console\Delegate\FuncActionPredicate\obj\Debug\net8.0\ref\FuncActionPredicate.dll
